@@ -1,0 +1,17 @@
+body {
+    background: white;
+    padding-top: 25px;
+}
+
+.main-image {
+    max-width: 100%;
+}
+
+.pet-image {
+    width: 30px;
+    height: 30px;
+}
+
+.bg-color {
+  background-color: rgb(153, 153, 153);
+}
